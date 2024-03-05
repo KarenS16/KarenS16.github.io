@@ -1,0 +1,127 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+    z-index: 1;
+background-color: rgb(0, 0, 0);
+top: 0;
+left: 0;
+width: 100%;
+}
+header a {
+    text-decoration: none;
+    font-family: "Quicksand", sans-serif;
+}
+header img {
+    width: 60px;
+    height: 60px;
+    margin: 10px;
+}
+nav ul {
+    display: flex;
+    list-style: none;
+}
+nav ul li {
+    margin: 20px;
+    color: rgb(253, 253, 253);
+}
+#Título h1 {
+    margin-top: 100px;
+    text-align: center;
+    font-family: "Quicksand", sans-serif;
+}
+.subtitles1 p {
+text-align: center;
+margin-left: 15px;
+}
+.carousel img {
+    height: 800px;
+}
+div h2{
+    text-align: center;
+    font-family: "Quicksand", sans-serif;
+}
+div p {
+text-align: left;
+}
+#nosotros {
+    display: flex;
+}
+
+.subtitles {
+    width: 100%;
+margin-top: 15px;
+padding: 60px;
+justify-content: space-between;
+background-color: rgb(251, 251, 251);
+}
+
+section {
+display: flex;
+background-color: rgb(125, 125, 125);
+}
+section div {
+    margin: 3%;
+}
+section div img {
+    width: 350px;
+}
+
+div h3 {
+    text-align: center;
+    font-family: "Quicksand", sans-serif;
+}
+
+#videosTT {
+    display: flex;
+}
+#videosTT h2{
+    margin-top: 30px;
+    font-family: "Quicksand", sans-serif;
+
+}
+#videosTT img {
+    width: 300px;
+    height: 400px;
+    margin-top: 70px;
+    border-radius: 60%;
+}
+footer {
+    background-color: rgb(0, 0, 0);
+    padding-bottom: 50px;
+    width: 100%;
+}
+
+footer h3 {
+    text-align: center;
+    margin-left: 50px;
+    margin-bottom: 50px;
+    padding-top: 20px;
+    color: rgb(247, 247, 237);
+    font-family: "Quicksand", sans-serif;
+
+}
+footer li {
+margin-left: 100px;
+margin-bottom: 30px;
+list-style: none;
+}
+footer div {
+    display: flex;
+}
+footer a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-size: large;
+}
+svg {
+    height: 30px;
+    width: 30px;
+    color: rgb(255, 255, 255);
+    margin-left: 30px;
+    
+}
+p { 
+    font-family: "Quicksand", sans-serif;
+    font-size: medium;
+}
